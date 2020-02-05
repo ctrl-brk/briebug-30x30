@@ -17,5 +17,8 @@
     "baseUrl": ".",
     "paths": {}
   },
+  "angularCompilerOptions": {
+    "disableTypeScriptVersionCheck": true
+  },
   "exclude": ["node_modules", "tmp"]
 }

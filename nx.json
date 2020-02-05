@@ -17,6 +17,13 @@
     "app01-e2e": {
       "tags": [],
       "implicitDependencies": ["app01"]
+    },
+    "app02": {
+      "tags": []
+    },
+    "app02-e2e": {
+      "tags": [],
+      "implicitDependencies": ["app02"]
     }
   }
 }

@@ -4,7 +4,7 @@
     "outDir": "../../dist/out-tsc",
     "types": []
   },
-  "files": ["src/main01.ts", "../../apps/polyfills.ts"],
+  "files": ["src/main02.ts", "../../apps/polyfills.ts"],
   "include": ["**/*.ts"],
   "exclude": ["src/test-setup.ts", "**/*.spec.ts"]
 }
